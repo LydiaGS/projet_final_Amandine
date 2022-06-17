@@ -1,0 +1,39 @@
+#haut{
+    background-color: pink;
+    text-align: center;
+ }
+ #bouton{
+    background-color: pink;
+    text-align: center;
+ }
+ body {
+    background-image: url("../img/mincraftfond.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  #tb{
+    text-align: center;
+  }
+  h1{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+  }
+
+#img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+    display: inline;
+}
+#img div:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+    display: inline;
+}
+#bouton1{
+  background-color: pink;
+}
+

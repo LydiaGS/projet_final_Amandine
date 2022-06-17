@@ -1,0 +1,37 @@
+.card{
+    max-width: 250px;
+    margin:25px;
+
+}
+body {
+    background-image: url("../img/mincraftfond.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+   h1{
+    text-align: center;
+    text-decoration-color: green;
+   }
+   #bouton{
+    background-color: green;
+    color:	#ADFF2F;
+   }
+#moutils{
+    background-color: green;
+    color: 	#ADFF2F;
+}
+#haut{
+   background-color: pink;
+   text-align: center;
+}
+#bouton{
+    background-color: pink;
+    text-align: center;
+}
+#bouton{
+    background-color: pink;
+}
+#bouton1{
+    background-color: pink;
+}
+

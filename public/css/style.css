@@ -1,0 +1,50 @@
+body {
+    background-image: url("../img/mincraftfond.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .contnaire{
+    max-width: 250px;
+    margin:25px;
+
+}
+h1{
+    text-align: center;
+}
+#haut{
+    background-color: pink;
+    text-align: center;
+ }
+ #para{
+    text-align: center;
+    color: purple;
+ }
+ 
+
+#img {
+  width: 200px; 
+  height: auto; 
+  -webkit-transition: .3s ease-in-out !important; 
+  transition: .3s ease-in-out !important; 
+  display: inline;
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+   transition: .3s ease-in-out;
+   
+}
+
+#img:hover img:hover {
+  width: 150px; 
+  height: 150px;
+  border-radius: 50%; 
+  display: inline;
+  opacity: .5;
+}
+
+#monpara2{
+  display: none;
+  color:pink;
+}
+ #monpara{
+  color: purple;
+ }
